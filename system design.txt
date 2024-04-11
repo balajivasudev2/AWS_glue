@@ -1,0 +1,5 @@
+Explain how you would design a ride-sharing app.
+
+Explain how you’d design Twitter and the system tradeoffs involved.
+
+How would you explain a web service infrastructure to a technical audience with a software background but limited system-level knowledge?

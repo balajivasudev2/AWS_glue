@@ -1,0 +1,11 @@
+Step1- write Terraform script to create S3 bucket and add permissions 
+
+Step2- choose the data set
+
+Step3- write terraform script to create glue job and add permissions
+
+Step4-  build data pipeline
+
+step5- perform neccessary operations
+
+step6 - store it in the destination. 
